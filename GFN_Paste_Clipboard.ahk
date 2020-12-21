@@ -7,5 +7,6 @@ SetWorkingDir %A_ScriptDir%
 
 ; Actual script
 SetKeyDelay, 0
+
 ^v::
-send %clipboard%
+    send %clipboard%
