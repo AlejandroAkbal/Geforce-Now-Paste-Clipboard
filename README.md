@@ -12,13 +12,13 @@ AutoHotkey script to paste your clipboard into Geforce NOW.
 
 ### Script
 
-Download [GFN_Paste_Clipboard.ahk](GFN_Paste_Clipboard.ahk) and run it.
+Download [GFN_Paste_Clipboard.ahk](src/GFN_Paste_Clipboard.ahk) and run it.
 
 Use `Ctrl` + `V` to paste your clipboard.
 
 ### Compiled
 
-Download [GFN_Paste_Clipboard.exe](GFN_Paste_Clipboard.exe) and run it.
+Download [GFN_Paste_Clipboard.exe](dist/GFN_Paste_Clipboard.exe) and run it.
 
 Use `Ctrl` + `V` to paste your clipboard.
 
