@@ -9,4 +9,4 @@ SetWorkingDir %A_ScriptDir%
 SetKeyDelay, 0
 
 ^v::
-    send %clipboard%
+    send {Raw}%clipboard%
